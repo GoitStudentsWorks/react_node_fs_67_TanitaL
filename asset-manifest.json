@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_67_TanitaL/static/css/main.b1c8a778.css",
-    "main.js": "/react_node_fs_67_TanitaL/static/js/main.c66605a0.js",
+    "main.js": "/react_node_fs_67_TanitaL/static/js/main.b799c707.js",
     "static/css/823.5a37bec9.chunk.css": "/react_node_fs_67_TanitaL/static/css/823.5a37bec9.chunk.css",
     "static/js/823.8541a7cd.chunk.js": "/react_node_fs_67_TanitaL/static/js/823.8541a7cd.chunk.js",
     "static/css/188.d5cac29b.chunk.css": "/react_node_fs_67_TanitaL/static/css/188.d5cac29b.chunk.css",
@@ -52,7 +52,7 @@
     "static/media/plus.svg": "/react_node_fs_67_TanitaL/static/media/plus.e0a8849708a983bcf3362e44ac76b8d6.svg",
     "static/media/plus-small.svg": "/react_node_fs_67_TanitaL/static/media/plus-small.8cee63fe805dc70ff923a99c4e710a02.svg",
     "main.b1c8a778.css.map": "/react_node_fs_67_TanitaL/static/css/main.b1c8a778.css.map",
-    "main.c66605a0.js.map": "/react_node_fs_67_TanitaL/static/js/main.c66605a0.js.map",
+    "main.b799c707.js.map": "/react_node_fs_67_TanitaL/static/js/main.b799c707.js.map",
     "823.5a37bec9.chunk.css.map": "/react_node_fs_67_TanitaL/static/css/823.5a37bec9.chunk.css.map",
     "823.8541a7cd.chunk.js.map": "/react_node_fs_67_TanitaL/static/js/823.8541a7cd.chunk.js.map",
     "188.d5cac29b.chunk.css.map": "/react_node_fs_67_TanitaL/static/css/188.d5cac29b.chunk.css.map",
@@ -81,6 +81,6 @@
   },
   "entrypoints": [
     "static/css/main.b1c8a778.css",
-    "static/js/main.c66605a0.js"
+    "static/js/main.b799c707.js"
   ]
 }
